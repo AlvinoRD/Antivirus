@@ -1,0 +1,83 @@
+2024-10-19 23:07:30.971078 - Checksum and file name added: f358b8d5f86244902a796baf80620faa, .goodware1.docx
+2024-10-19 23:07:40.108397 - File checked: D:/ABC/Sem 5/Antivirus/Folder/..goodware1a.docx - Clean
+2024-10-19 23:08:26.875400 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.goodware1a.docx
+2024-10-19 23:09:00.792905 - File checked: D:/ABC/Sem 5/Antivirus/Folder/goodware1.docx - Clean
+2024-10-20 12:37:34.525370 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.goodware1b.docx
+2024-10-20 12:38:33.702029 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.goodware1bb.docx
+2024-10-20 12:38:50.619149 - Checksum and file name added: 5efd617666b99e580dc28d574ebf1d14, .goodware2.pptx
+2024-10-20 12:39:00.611364 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.goodware2bbb.pptx
+2024-10-20 16:12:52.950724 - Checksum and file name added: 473b64ccb8fbf3f5d113404b4ca496fb, virus.py
+2024-10-20 16:12:57.963322 - Checksum and file name added: 473b64ccb8fbf3f5d113404b4ca496fb, virus2.py
+2024-10-20 21:01:40.900358 - Checksum and file name added: c1985d4086923e7a54784184570ee572, Code AI.py
+2024-10-20 21:01:50.278745 - File checked: D:/ABC/Sem 5/Antivirus/Folder/Code PBW.py - Clean
+2024-10-20 23:04:05.239326 - Checksum and file name added: c1985d4086923e7a54784184570ee572, Code AI.py
+2024-10-20 23:04:13.418044 - Checksum and file name added: 18d1e2a7e6da9e5c8941364394efecf1, Code IOT.py
+2024-10-20 23:04:22.181184 - Checksum and file name added: 142b217f0dc6aca710b87e2e73b30b94, Code Jaringan.py
+2024-10-20 23:05:13.343276 - Checksum and file name added: 8df3390024c38e79a4a1a068ef6cd7d9, .Catatan Harian.txt
+2024-10-20 23:05:17.534852 - Checksum and file name added: 1332c3894c342b75c8824d50c86deda5, .Curhatan Agung.txt
+2024-10-20 23:05:21.260393 - Checksum and file name added: 29f59409accd3137c6f3d0f6159fe0c5, .Data Penjualan Produk.xlsx
+2024-10-20 23:05:25.308693 - Checksum and file name added: 3262c17fa6891971791b3c5889818fc1, .Presentasi Biologi.pptx
+2024-10-20 23:05:29.079867 - Checksum and file name added: c0fb89146fb4f322ac82783244ecdbfa, .Tugas Bahasa Indonesia.docx
+2024-10-20 23:08:16.331678 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan Harian.txt
+2024-10-20 23:08:28.563937 - File checked: D:/ABC/Sem 5/Antivirus/Folder/.Catatan Harianb.txt - Clean
+2024-10-20 23:08:59.511623 - File checked: D:/ABC/Sem 5/Antivirus/Folder/.Catatan Harianb.txt - Clean
+2024-10-20 23:09:06.542401 - File checked: D:/ABC/Sem 5/Antivirus/Folder/.Curhatan Agungb.txt - Clean
+2024-10-20 23:09:14.952569 - File checked: D:/ABC/Sem 5/Antivirus/Folder/.Data Penjualan Produkb.xlsx - Clean
+2024-10-20 23:11:51.442297 - Checksum and file name added: c1985d4086923e7a54784184570ee572, Code_AI.py
+2024-10-20 23:11:56.141567 - Checksum and file name added: 18d1e2a7e6da9e5c8941364394efecf1, Code_IOT.py
+2024-10-20 23:12:00.917248 - Checksum and file name added: 142b217f0dc6aca710b87e2e73b30b94, Code_Jaringan.py
+2024-10-20 23:23:23.700905 - Checksum and file name added: 00546a7b0100e62f2a341e4a004cc666, .Catatan_Harian.txt
+2024-10-20 23:23:27.536418 - Checksum and file name added: 5cdbcaa9e054febb0494a28598236c19, .Curhatan_Agung.txt
+2024-10-20 23:23:31.088468 - Checksum and file name added: 174a48f59f9d8d61ecfc9674d17689c8, .Data_Penjualan_Produk.xlsx
+2024-10-20 23:23:36.199582 - Checksum and file name added: ed4e82a434ad29fbfc5652005dcc0538, .Presentasi_Biologi.pptx
+2024-10-20 23:23:40.313078 - Checksum and file name added: 4baf73285fb7ac8fd957d4bcbc0f09d2, .Tugas_Bahasa_Indonesia.docx
+2024-10-20 23:24:22.145245 - File checked: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harianb.txt - Clean
+2024-10-20 23:26:56.670185 - Checksum and file name added: c1985d4086923e7a54784184570ee572, Code_AI1.py
+2024-10-20 23:27:12.987743 - Checksum and file name added: 3acafef434bc6dba6084ba54fd047f12, Code_IOT2.py
+2024-10-20 23:27:32.219310 - Checksum and file name added: 8dc7b2c90dbc7aaaaf91b511da62b462, Code_Jaringan3.py
+2024-10-20 23:27:50.779954 - Checksum and file name added: 302ecac50d0cbefd685626057bc57532, .Catatan_Harian.txt
+2024-10-20 23:29:43.859236 - Checksum and file name added: 6ccfb8c93f85711eb0c4d05f27e06610, .Catatan_Harian1.txt
+2024-10-20 23:29:51.082086 - Checksum and file name added: 7f75ca59d9dfa4bfb711695f1a60f2c5, .Curhatan_Agung1.txt
+2024-10-20 23:29:56.598919 - Checksum and file name added: 968109381da5592083f671f8d8d6cb41, .Data_Penjualan_Produk1.xlsx
+2024-10-20 23:30:02.306102 - Checksum and file name added: fcddec62cb2b4d2e802d1789c2c25d60, .Presentasi_Biologi1.pptx
+2024-10-20 23:30:07.306234 - Checksum and file name added: dfe289355aed9ea389bd9b8eda27bd0e, .Tugas_Bahasa_Indonesia1.docx
+2024-10-20 23:30:12.813157 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1b.txt
+2024-10-20 23:30:18.642708 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Curhatan_Agung1b.txt
+2024-10-20 23:30:24.227271 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Data_Penjualan_Produk1b.xlsx
+2024-10-20 23:30:29.762697 - Checksum and file name added: 5f84ba13e8efe6689ce12533924232ce, .Presentasi_Biologi1b.pptx
+2024-10-20 23:30:38.766272 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Presentasi_Biologi1b.pptx
+2024-10-20 23:30:46.689143 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Tugas_Bahasa_Indonesia1b.docx
+2024-10-21 05:50:19.946684 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1cbbbbb.txt
+2024-10-21 05:50:33.499056 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Curhatan_Agung1cbbbbb.txt
+2024-10-21 10:19:50.026800 - Checksum and file name added: 47874eecde45de55bfebc352718d9001, .Catatan_Harian1.txt
+2024-10-21 10:21:32.005785 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1c.txt
+2024-10-21 10:22:15.381540 - Checksum and file name added: 44b273165d43f7c092f0a22da221efeb, .Curhatan_Agung1c.txt
+2024-10-21 10:22:27.198445 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Curhatan_Agung1.txt
+2024-10-21 10:34:31.770099 - Checksum and file name added: 9278260397faea485d2f8084f5f3252b, coba klik.bat
+2024-10-21 10:34:38.696791 - Checksum and file name added: e0f25502461f82c270516f3ed888047f, coba klik terus.bat
+2024-10-21 10:34:51.926322 - Checksum and file name added: 45dc60fa7153f8b64078583b4947a37e, coba klik lagi.bat
+2024-10-21 14:20:59.038621 - Checksum and file name added: de7115be2b5f5b419841634722cbe940, .Catatan_Harian1.txt
+2024-10-21 14:21:06.708883 - Checksum and file name added: 3cd6ccd635b8ce9ca937e719b520ae56, .Curhatan_Agung1.txt
+2024-10-21 14:21:12.890610 - Checksum and file name added: 64676839f4328cd90082c38021aeabec, .Data_Penjualan_Produk1.xlsx
+2024-10-21 14:21:29.454404 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1c.txt
+2024-10-21 14:22:11.259155 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1.txt
+2024-10-21 14:22:26.797500 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Data_Penjualan_Produk1.xlsx
+2024-10-21 15:37:07.401007 - Checksum and file name added: 92720e9ac508462f52b6f272d2d2123f, .Tugas_Bahasa_Indonesia1.docx
+2024-10-21 15:37:13.117814 - Checksum and file name added: cf83403254c318637badb74e2e277c70, .Presentasi_Biologi1.pptx
+2024-10-21 15:37:17.627459 - Checksum and file name added: 4dc214e534b965f042a03721d86edb23, .Data_Penjualan_Produk1.xlsx
+2024-10-21 15:37:21.970613 - Checksum and file name added: b18e74ceb76bcb718aa565163368468a, .Curhatan_Agung1.txt
+2024-10-21 15:37:25.847105 - Checksum and file name added: 2cd993586b2d94c62d3fe55911221687, .Catatan_Harian1.txt
+2024-10-21 15:37:38.479557 - File deleted: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1.txt
+2024-10-21 15:37:44.668337 - File deleted: D:/ABC/Sem 5/Antivirus/Folder/.Curhatan_Agung1.txt
+2024-10-21 15:37:50.694918 - File deleted: D:/ABC/Sem 5/Antivirus/Folder/.Data_Penjualan_Produk1.xlsx
+2024-10-21 15:37:56.578103 - File deleted: D:/ABC/Sem 5/Antivirus/Folder/.Presentasi_Biologi1.pptx
+2024-10-21 15:38:02.117656 - File deleted: D:/ABC/Sem 5/Antivirus/Folder/.Tugas_Bahasa_Indonesia1.docx
+2024-10-21 16:21:48.478616 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Catatan_Harian1.txt
+2024-10-21 16:22:52.486310 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/.Curhatan_Agung1c.txt
+2024-10-21 16:23:50.092474 - File checked: D:/ABC/Sem 5/Antivirus/Folder/Data_Penjualan_Produk1.xlsx - Clean
+2024-10-21 16:24:09.675192 - Checksum and file name added: 295ed1b1711476dae7bd1e8caf190e6c, coba klik ini.bat
+2024-10-21 16:24:51.180299 - File quarantined: D:/ABC/Sem 5/Antivirus/Folder/coba klik ini.bat
+2024-12-26 16:32:54.541211 - Checksum and file name added: f1ce6047db1c4a6898f08d6ec75df896, .Data_Penjualan_Produk1.xlsx
+2024-12-26 16:33:17.887067 - Checksum and file name added: f1ce6047db1c4a6898f08d6ec75df896, .Data_Penjualan_Produk1.xlsx
+2024-12-26 16:35:54.796045 - File quarantined: D:/ABC/Sem 5/Keamanan Siber/Antivirus/Folder/.Data_Penjualan_Produk1.xlsx
+2024-12-26 16:37:39.509587 - File quarantined: D:/ABC/Sem 5/Keamanan Siber/Antivirus/Folder/.Data_Penjualan_Produk1c.xlsx
